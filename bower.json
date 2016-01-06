@@ -1,0 +1,24 @@
+{
+  "name": "open-weather-map",
+  "authors": [
+    "B Paul Anderson <benpaul.anderson@gmail.com>"
+  ],
+  "description": "See weather reports, on a map!",
+  "main": "build/index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://www.andersonpaul.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-animate": "~1.4.8"
+  }
+}
